@@ -1,0 +1,217 @@
+/* ================================
+   Global Styling
+==================================*/
+.stApp {
+    background: linear-gradient(135deg, #ff9a9e 0%, #a9def9 100%) !important;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #000;
+}
+
+/* ================================
+   Header
+==================================*/
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.header img {
+    height: 40px;
+}
+
+.header h1 {
+    font-size: 42px;
+    font-weight: bold;
+    margin: 0 20px;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #0b3d91;
+    text-align: center;
+}
+
+.header p {
+    color: #000;
+    margin: 0;
+    font-size: 18px;
+    font-style: italic;
+    text-align: center;
+}
+
+/* ================================
+   Typography
+==================================*/
+h1, h2, h3, h4 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #0b3d91;
+    font-weight: 600;
+}
+
+/* ================================
+   Tables
+==================================*/
+table {
+    background: none !important;
+    border-collapse: collapse;
+    font-size: 14px;
+    color: #000;
+}
+
+thead tr {
+    background-color: #0b3d91;
+    color: white;
+}
+
+thead th, tbody td {
+    padding: 0.75rem;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+tbody tr:hover {
+    background-color: #f9f9f9;
+}
+
+/* DataFrames */
+.stDataFrame {
+    background: none !important;
+    border-radius: 0;
+    padding: 0;
+    box-shadow: none;
+}
+
+/* ================================
+   Charts
+==================================*/
+.plot-container, .stPlotlyChart, .stAltairChart, .stPyplot {
+    background: none !important;
+    box-shadow: none !important;
+    padding: 0 !important;
+    border-radius: 0 !important;
+}
+
+.plot-container .main-svg {
+    background-color: transparent !important;
+}
+
+svg {
+    background-color: transparent !important;
+}
+
+/* ================================
+   Widgets & Forms
+==================================*/
+.stSelectbox, .stMultiSelect, .stRadio, .stSlider {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 1rem;
+}
+
+.stSlider > div {
+    padding: 0 1rem;
+}
+
+/* ================================
+   Buttons
+==================================*/
+.stDownloadButton, .stButton {
+    background-color: #0b3c9100 !important;
+    color: rgb(0, 0, 0) !important;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 6px;
+    padding: 0.5rem 1rem;
+}
+
+.stDownloadButton:hover, .stButton:hover {
+    text-transform: uppercase;
+}
+
+/* ================================
+   Tabs
+==================================*/
+.stTabs [role="tablist"] {
+    border-bottom: 2px solid #ccc;
+}
+
+.stTabs [role="tab"] {
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px 20px;
+}
+
+.stTabs [aria-selected="true"] {
+    border-bottom: 4px solid #0b3d91;
+    color: #0b3d91;
+}
+
+/* ================================
+   Misc Enhancements
+==================================*/
+.block-container {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.css-1dp5vir {
+    background-color: transparent !important;
+}
+
+/* ================================
+   Responsive for Phones
+==================================*/
+@media (max-width: 768px) {
+    .header {
+        flex-direction: column;
+        text-align: center;
+        gap: 10px;
+    }
+
+    .header h1 {
+        font-size: 28px;
+        margin: 0;
+    }
+
+    .header p {
+        font-size: 16px;
+    }
+
+    .stTabs [role="tab"] {
+        padding: 8px 12px;
+        font-size: 14px;
+    }
+
+    table, thead, tbody, th, td, tr {
+        display: block;
+        width: 100%;
+    }
+
+    thead {
+        display: none;
+    }
+
+    tr {
+        margin-bottom: 1rem;
+    }
+
+    td {
+        text-align: right;
+        position: relative;
+        padding-left: 50%;
+    }
+
+    td::before {
+        content: attr(data-label);
+        position: absolute;
+        left: 1rem;
+        width: 45%;
+        white-space: nowrap;
+        text-align: left;
+        font-weight: bold;
+    }
+
+    .stDataFrame {
+        font-size: 12px;
+        overflow-x: auto;
+    }
+}
