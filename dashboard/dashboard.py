@@ -56,35 +56,42 @@ tab1, tab2, tab3, tab4, tab5 = st.tabs([
 with tab1:
     st.subheader("📊 Market Performance by Super Sector, Sector, and Firm")
 
+    # ✅ Load all necessary CSVs
     company_data = pd.read_csv("output/company_price_changes.csv")
     sector_data = pd.read_csv("output/sector_price_summary.csv")
     top_movers = pd.read_csv("output/top_movers.csv")
     bottom_movers = pd.read_csv("output/bottom_movers.csv")
+
+    # ✅ Only read once and convert Date column to datetime
     trend_data = pd.read_csv("output/price_trend_data.csv")
     trend_data["Date"] = pd.to_datetime(trend_data["Date"])
 
-    all_supers = sorted(trend_data["Super Sector"].dropna().unique())
-    super_options = ["All Super Sectors"] + all_supers
-    selected_super = st.selectbox("🧱 Select Super Sector (for Firm Filters)", super_options)
-
-    
-    if selected_super != "All Super Sectors":
-        sectors = trend_data[trend_data["Super Sector"] == selected_super]["Sector"].dropna().unique()
+    # ✅ Check that 'Super Sector' exists
+    if "Super Sector" not in trend_data.columns:
+        st.error("❌ 'Super Sector' column not found in the data.")
     else:
-        sectors = trend_data["Sector"].dropna().unique()
+        all_supers = sorted(trend_data["Super Sector"].dropna().unique())
+        super_options = ["All Super Sectors"] + all_supers
+        selected_super = st.selectbox("🧱 Select Super Sector (for Firm Filters)", super_options)
 
-    default_sectors = [s for s in ["Materials", "Energy"] if s in sectors]
-    selected_sectors = st.multiselect("🏷️ Select Sector(s)", sorted(sectors), default=default_sectors)
+        if selected_super != "All Super Sectors":
+            sectors = trend_data[trend_data["Super Sector"] == selected_super]["Sector"].dropna().unique()
+        else:
+            sectors = trend_data["Sector"].dropna().unique()
 
-    firms = trend_data[trend_data["Sector"].isin(selected_sectors)]["Firm"].dropna().unique()
-    default_firms = [f for f in ["Saudi Aramco Base Oil Co.", "Saudi Arabian Oil Co.", "Arabian Drilling Co.", "Saudi Arabian Oil Co."] if f in firms]
-    selected_firms = st.multiselect("🏢 Select Firm(s)", sorted(firms), default=default_firms)
+        default_sectors = [s for s in ["Materials", "Energy"] if s in sectors]
+        selected_sectors = st.multiselect("🏷️ Select Sector(s)", sorted(sectors), default=default_sectors)
 
+        firms = trend_data[trend_data["Sector"].isin(selected_sectors)]["Firm"].dropna().unique()
+        default_firms = [f for f in ["Saudi Aramco Base Oil Co.", "Saudi Arabian Oil Co.", "Arabian Drilling Co."] if f in firms]
+        selected_firms = st.multiselect("🏢 Select Firm(s)", sorted(firms), default=default_firms)
 
+    # ✅ Safe because Date column is datetime now
     min_date = trend_data["Date"].min().date()
     max_date = trend_data["Date"].max().date()
     date_range = st.slider("📅 Select Date Range", min_value=min_date, max_value=max_date,
                            value=(min_date, max_date), format="YYYY-MM-DD")
+
 
     trend_filtered = trend_data[
         (trend_data["Sector"].isin(selected_sectors)) &
