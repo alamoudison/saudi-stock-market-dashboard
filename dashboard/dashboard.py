@@ -63,12 +63,11 @@ with tab1:
     trend_data = pd.read_csv("output/price_trend_data.csv")
     trend_data["Date"] = pd.to_datetime(trend_data["Date"])
 
-    # --- Super Sector Selectbox ---
     all_supers = sorted(trend_data["Super Sector"].dropna().unique())
     super_options = ["All Super Sectors"] + all_supers
     selected_super = st.selectbox("🧱 Select Super Sector (for Firm Filters)", super_options)
 
-    # --- Sector filter (default to Materials & Energy if available) ---
+    
     if selected_super != "All Super Sectors":
         sectors = trend_data[trend_data["Super Sector"] == selected_super]["Sector"].dropna().unique()
     else:
@@ -77,9 +76,8 @@ with tab1:
     default_sectors = [s for s in ["Materials", "Energy"] if s in sectors]
     selected_sectors = st.multiselect("🏷️ Select Sector(s)", sorted(sectors), default=default_sectors)
 
-    # --- Firm filter (default to the two firms if available) ---
     firms = trend_data[trend_data["Sector"].isin(selected_sectors)]["Firm"].dropna().unique()
-    default_firms = [f for f in ["Saudi Aramco Base Oil Co.", "Saudi Arabian Oil Co.", "Arabian Drilling Co.","Saudi Arabia Refineries Co."] if f in firms]
+    default_firms = [f for f in ["Saudi Aramco Base Oil Co.", "Saudi Arabian Oil Co.", "Arabian Drilling Co.", "Saudi Arabian Oil Co."] if f in firms]
     selected_firms = st.multiselect("🏢 Select Firm(s)", sorted(firms), default=default_firms)
 
 
@@ -176,14 +174,14 @@ with tab1:
         xaxis=dict(title_font=dict(color='black'), tickfont=dict(color='black')),
         yaxis=dict(title_font=dict(color='black'), tickfont=dict(color='black')),
         legend=dict(
-                orientation="h",
-                yanchor="top",
-                y=-0.3,
-                xanchor="center",
-                x=0.5,
-                title=None,
-                font=dict(size=10)
-            )
+            orientation="h",
+            yanchor="top",
+            y=-0.3,
+            xanchor="center",
+            x=0.5,
+            title=None,
+            font=dict(size=10)
+        )
     )
     st.plotly_chart(fig_trend, use_container_width=True)
 
@@ -245,7 +243,7 @@ with tab2:
     performance_data = pd.read_csv("output/price_trend_data.csv")
     performance_data["Date"] = pd.to_datetime(performance_data["Date"])
     firms = performance_data["Firm"].dropna().unique()
-    selected_firms_perf = st.multiselect("🏢 Select Firm(s) to Compare", sorted(firms), default=list(firms[:2]))
+    selected_firms_perf = st.multiselect("🏢 Select Firm(s) to Compare", sorted(firms), default=list(firms[:5]))
 
     fig_perf = px.line(performance_data[performance_data["Firm"].isin(selected_firms_perf)],
                        x="Date", y="Close", color="Firm")
