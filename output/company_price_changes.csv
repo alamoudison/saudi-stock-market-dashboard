@@ -1,270 +1,238 @@
 Firm,Sector,Super Sector,Start_Price,End_Price,Pct_Change
-ACWA POWER Co.,Utilities,Utilities,72.65,259.0,256.5037852718513
-AL Maather REIT Fund,REITs,Real Estate,8.77,9.25,5.4732041049030835
-ARTEX Industrial Investment Co.,Consumer Durables & Apparel,Consumer Discretionary,12.22,70.9,480.1963993453356
-AYYAN Investment Co.,Health Care Equipment & Svc,Healthcare,10.29,13.88,34.88824101069001
-Abdullah Al Othaim Markets Co.,Consumer Staples Distribution & Retail,Consumer Discretionary,8.25,8.07,-2.1818181818181785
-Abdullah Saad Mohammed Abo Moati for Bookstores Co.,Consumer Discretionary Distribution & Retail,Consumer Discretionary,18.96,15.08,-20.46413502109705
-Ades Holding Co.,Energy,Energy,17.54,13.96,-20.410490307867725
-Advanced Petrochemical Co.,Materials,Industrial,41.32,30.0,-27.395934172313652
-Al Gassim Investment Holding Co.,Food & Beverages,Consumer Staples,11.2,37.95,238.83928571428578
-Al Hammadi Holding,Health Care Equipment & Svc,Healthcare,15.85,37.35,135.64668769716087
-Al Hassan Ghazi Ibrahim Shaker Co.,Capital Goods,Financial Services,12.35,27.0,118.62348178137651
-Al Jouf Cement Co.,Materials,Industrial,12.94,30.0,131.83925811437405
-Al Kathiri Holding Co.,Materials,Industrial,10.44,8.75,-16.187739463601527
-Al Majed Oud Co.,Household & Personal Products,Consumer Staples,122.2,135.2,10.638297872340413
-Al Moammar Information Systems Co.,Software & Services,Information Technology,24.22,134.8,456.5648224607763
-Al Rajhi Bank,Banks,Financial Services,40.7,91.1,123.83292383292381
-Al Rajhi REIT Fund,REITs,Real Estate,9.66,8.29,-14.182194616977236
-Al Sagr Cooperative Insurance Co.,Insurance,Financial Services,19.38,12.5,-35.50051599587203
-Al Taiseer Group Talco Industrial Co.,Capital Goods,Financial Services,49.2,43.15,-12.296747967479684
-Al Yamamah Steel Industries Co.,Materials,Industrial,19.04,2.08,-89.07563025210085
+ACWA POWER Co.,Utilities,Utilities,72.65,401.4,452.51204404679964
+AL Maather REIT Fund,REITs,Real Estate,8.77,9.48,8.095781071835814
+ARTEX Industrial Investment Co.,Consumer Durables & Apparel,Consumer Discretionary,12.22,15.98,30.769230769230766
+AYYAN Investment Co.,Health Care Equipment & Svc,Healthcare,10.29,15.14,47.133138969873684
+Abdullah Al Othaim Markets Co.,Consumer Staples Distribution & Retail,Consumer Discretionary,8.25,10.5,27.27272727272727
+Abdullah Saad Mohammed Abo Moati for Bookstores Co.,Consumer Discretionary Distribution & Retail,Consumer Discretionary,18.96,31.0,63.50210970464134
+Ades Holding Co.,Energy,Energy,17.54,17.36,-1.0262257696693258
+Advanced Petrochemical Co.,Materials,Industrial,41.32,32.1,-22.313649564375602
+Al Gassim Investment Holding Co.,Food & Beverages,Consumer Staples,11.2,18.58,65.89285714285714
+Al Hammadi Holding,Health Care Equipment & Svc,Healthcare,15.85,38.4,142.2712933753943
+Al Hassan Ghazi Ibrahim Shaker Co.,Capital Goods,Financial Services,12.35,27.05,119.02834008097167
+Al Jouf Cement Co.,Materials,Industrial,12.94,10.28,-20.5564142194745
+Al Majed Oud Co.,Household & Personal Products,Consumer Staples,122.2,146.0,19.47626841243862
+Al Moammar Information Systems Co.,Software & Services,Information Technology,24.22,163.0,572.9975227085055
+Al Rajhi Bank,Banks,Financial Services,40.7,94.6,132.43243243243242
+Al Rajhi REIT Fund,REITs,Real Estate,9.66,8.36,-13.457556935817813
+Al Sagr Cooperative Insurance Co.,Insurance,Financial Services,19.38,17.54,-9.494324045407636
+Al Taiseer Group Talco Industrial Co.,Capital Goods,Financial Services,49.2,55.4,12.601626016260154
+Al Yamamah Steel Industries Co.,Materials,Industrial,19.04,33.45,75.68277310924371
 Al-Ahlia Insurance Co.,Insurance,Financial Services,11.24,14.76,31.316725978647682
-Al-Babtain Power and Telecommunication Co.,Capital Goods,Financial Services,18.1,49.75,174.86187845303866
-Al-Baha Investment and Development Co.,Financial Services,Financial Services,1.8,3.69,104.99999999999999
-Al-Etihad Cooperative Insurance Co.,Insurance,Financial Services,11.79,13.22,12.128922815945732
-Al-Jouf Agricultural Development Co.,Food & Beverages,Consumer Staples,22.5,45.85,103.77777777777779
-Al-Omran Industrial Trading Co.,Capital Goods,Financial Services,51.97,29.9,-42.46680777371561
-Al-Rajhi Company for Cooperative Insurance,Insurance,Financial Services,25.2,113.0,348.41269841269843
-AlAhli REIT Fund 1,REITs,Real Estate,9.6,6.97,-27.395833333333336
-AlJazira REIT,REITs,Real Estate,12.42,13.54,9.017713365539446
-AlSaif Stores for Development and Investment Co.,Consumer Discretionary Distribution & Retail,Consumer Discretionary,9.8,7.44,-24.081632653061227
+Al-Babtain Power and Telecommunication Co.,Capital Goods,Financial Services,18.1,39.0,115.46961325966849
+Al-Baha Investment and Development Co.,Financial Services,Financial Services,1.8,4.7,161.11111111111111
+Al-Etihad Cooperative Insurance Co.,Insurance,Financial Services,11.79,17.4,47.58269720101781
+Al-Jouf Agricultural Development Co.,Food & Beverages,Consumer Staples,22.5,59.6,164.88888888888889
+Al-Omran Industrial Trading Co.,Capital Goods,Financial Services,51.97,38.85,-25.245333846449867
+Al-Rajhi Company for Cooperative Insurance,Insurance,Financial Services,25.2,171.6,580.952380952381
+AlAhli REIT Fund 1,REITs,Real Estate,9.6,7.08,-26.249999999999996
+AlJazira REIT,REITs,Real Estate,12.42,15.04,21.095008051529785
+AlSaif Stores for Development and Investment Co.,Consumer Discretionary Distribution & Retail,Consumer Discretionary,9.8,8.02,-18.163265306122458
 Alahli Takaful Co.,Insurance,Financial Services,25.75,34.0,32.038834951456316
-Alamar Foods Co.,Consumer Services,Consumer Discretionary,122.0,61.9,-49.26229508196722
-Aldawaa Medical Services Co.,Consumer Staples Distribution & Retail,Consumer Discretionary,78.6,76.5,-2.671755725190833
-Aldrees Petroleum and Transport Services Co.,Energy,Energy,37.21,13.96,-62.483203439935494
-Alinma Bank,Banks,Financial Services,15.18,25.85,70.28985507246378
-Alinma Hospitality REIT Fund,REITs,Real Estate,9.52,8.2,-13.865546218487399
-Alinma Retail REIT Fund,REITs,Real Estate,8.23,4.53,-44.95747266099636
+Alamar Foods Co.,Consumer Services,Consumer Discretionary,122.0,74.9,-38.60655737704918
+Aldawaa Medical Services Co.,Consumer Staples Distribution & Retail,Consumer Discretionary,78.6,78.4,-0.2544529262086369
+Aldrees Petroleum and Transport Services Co.,Energy,Energy,37.21,120.2,223.03144316044077
+Alinma Bank,Banks,Financial Services,15.18,28.95,90.71146245059289
+Alinma Hospitality REIT Fund,REITs,Real Estate,9.52,8.4,-11.764705882352935
+Alinma Retail REIT Fund,REITs,Real Estate,8.23,4.73,-42.527339003645196
 Alinma Tokio Marine Co.,Insurance,Financial Services,12.46,12.8,2.728731942215087
-Alistithmar AREIC Diversified REIT Fund,REITs,Real Estate,9.5,7.85,-17.368421052631582
-Aljazira Takaful Taawuni Co.,Insurance,Financial Services,12.56,13.34,6.210191082802543
+Alistithmar AREIC Diversified REIT Fund,REITs,Real Estate,9.5,8.34,-12.210526315789476
+Aljazira Takaful Taawuni Co.,Insurance,Financial Services,12.56,16.46,31.050955414012744
 Alkhabeer REIT Fund,REITs,Real Estate,6.16,5.7,-7.467532467532467
-Alkhaleej Training and Education Co.,Consumer Services,Consumer Discretionary,11.41,24.8,117.35319894829097
-Alkhorayef Water and Power Technologies Co.,Utilities,Utilities,66.83,138.0,106.4940894807721
-Allied Cooperative Insurance Group,Insurance,Financial Services,16.76,12.48,-25.53699284009547
-Almarai Co.,Food & Beverages,Consumer Staples,49.35,51.3,3.9513677811550068
-Almasane Alkobra Mining Co.,Materials,Industrial,62.8,59.2,-5.732484076433112
-Almoosa Health Co.,Health Care Equipment & Svc,Healthcare,146.0,156.0,6.8493150684931505
-Almunajem Foods Co.,Consumer Staples Distribution & Retail,Consumer Discretionary,63.4,67.0,5.678233438485806
-Alujain Corp.,Materials,Industrial,29.8,36.9,23.82550335570469
-Amana Cooperative Insurance Co.,Insurance,Financial Services,13.45,12.48,-7.211895910780661
-Americana Restaurants International PLC - Foreign Company,Consumer Services,Consumer Discretionary,2.74,2.13,-22.262773722627745
-Amlak International Finance Co.,Financial Services,Financial Services,15.64,10.64,-31.9693094629156
-Anaam International Holding Group,Consumer Staples Distribution & Retail,Consumer Discretionary,12.6,15.52,23.174603174603174
-Arab National Bank,Banks,Financial Services,20.28,21.66,6.804733727810645
-Arab Sea Information System Co.,Software & Services,Information Technology,2.81,5.37,91.10320284697508
-Arabia Insurance Cooperative Co.,Insurance,Financial Services,15.67,11.98,-23.548181238034456
-Arabian Cement Co.,Materials,Industrial,36.7,23.44,-36.130790190735695
-Arabian Company for Agricultural and Industrial Investment,Food & Beverages,Consumer Staples,65.0,46.15,-29.000000000000004
-Arabian Contracting Services Co.,Media and Entertainment,Communication Services,94.55,109.8,16.129032258064516
-Arabian Drilling Co.,Energy,Energy,123.0,84.2,-31.54471544715447
-Arabian Internet and Communications Services Co.,Software & Services,Information Technology,196.2,5.37,-97.26299694189602
-Arabian Mills for Food Products Co.,Food & Beverages,Consumer Staples,65.8,42.35,-35.63829787234042
-Arabian Pipes Co.,Materials,Industrial,2.53,23.44,826.4822134387354
-Arabian Shield Cooperative Insurance Co.,Insurance,Financial Services,13.04,15.52,19.018404907975466
-Ash-Sharqiyah Development Co.,Food & Beverages,Consumer Staples,19.97,16.6,-16.87531296945417
-Astra Industrial Group,Capital Goods,Financial Services,14.0,159.0,1035.7142857142858
-Ataa Educational Co.,Consumer Services,Consumer Discretionary,29.6,63.8,115.54054054054052
-BAAN Holding Group Co.,Consumer Services,Consumer Discretionary,3.47,63.8,1738.6167146974065
-Baazeem Trading Co.,Consumer Discretionary Distribution & Retail,Consumer Discretionary,4.27,5.52,29.274004683840754
-Bank Albilad,Banks,Financial Services,13.44,25.85,92.33630952380955
-Bank Aljazira,Banks,Financial Services,9.62,12.78,32.84823284823285
-Banque Saudi Fransi,Banks,Financial Services,18.09,17.28,-4.4776119402985
-Basic Chemical Industries Co.,Materials,Industrial,23.98,6.48,-72.97748123436196
-Batic Investments and Logistics Co.,Capital Goods,Financial Services,1.83,2.23,21.857923497267752
-Bawan Co.,Capital Goods,Financial Services,16.38,49.15,200.06105006105005
-BinDawood Holding Co.,Consumer Staples Distribution & Retail,Consumer Discretionary,10.56,6.28,-40.53030303030303
-Bishah Agricultural Development Co.,Materials,Industrial,31.8,26.2,-17.610062893081764
-Bonyan REIT Fund,REITs,Real Estate,9.79,9.27,-5.311542390194072
-Bupa Arabia for Cooperative Insurance Co.,Insurance,Financial Services,81.15,167.0,105.7917436845348
-Buruj Cooperative Insurance Co.,Insurance,Financial Services,19.36,17.24,-10.950413223140501
-CHUBB Arabia Cooperative Insurance Co.,Insurance,Financial Services,15.59,35.5,127.71007055805003
-City Cement Co.,Materials,Industrial,21.0,18.08,-13.904761904761914
-Dallah Healthcare Co.,Health Care Equipment & Svc,Healthcare,39.36,156.0,296.3414634146341
-Derayah Financial Co.,Financial Services,Financial Services,39.0,26.25,-32.69230769230769
-Derayah REIT Fund,REITs,Real Estate,10.5,5.62,-46.476190476190474
-Development Works Food Co.,Consumer Services,Consumer Discretionary,211.6,106.2,-49.810964083175804
-Dr. Soliman Abdel Kader Fakeeh Hospital Co.,Health Care Equipment & Svc,Healthcare,63.3,118.6,87.36176935229068
-Dr. Sulaiman Al Habib Medical Services Group,Health Care Equipment & Svc,Healthcare,55.0,261.8,376.0
+Alkhaleej Training and Education Co.,Consumer Services,Consumer Discretionary,11.41,31.85,179.14110429447854
+Alkhorayef Water and Power Technologies Co.,Utilities,Utilities,66.83,150.0,124.45009726170882
+Allied Cooperative Insurance Group,Insurance,Financial Services,16.76,13.46,-19.689737470167067
+Almarai Co.,Food & Beverages,Consumer Staples,49.35,57.2,15.906788247213782
+Almasane Alkobra Mining Co.,Materials,Industrial,62.8,67.5,7.484076433121024
+Almunajem Foods Co.,Consumer Staples Distribution & Retail,Consumer Discretionary,63.4,95.8,51.10410094637224
+Alujain Corp.,Materials,Industrial,29.8,38.3,28.523489932885894
+Amana Cooperative Insurance Co.,Insurance,Financial Services,13.45,10.6,-21.189591078066915
+Americana Restaurants International PLC - Foreign Company,Consumer Services,Consumer Discretionary,2.74,2.28,-16.788321167883225
+Amlak International Finance Co.,Financial Services,Financial Services,15.64,12.82,-18.0306905370844
+Anaam International Holding Group,Consumer Staples Distribution & Retail,Consumer Discretionary,12.6,26.4,109.52380952380952
+Arab National Bank,Banks,Financial Services,20.28,21.08,3.944773175542392
+Arab Sea Information System Co.,Software & Services,Information Technology,2.81,6.54,132.74021352313167
+Arabia Insurance Cooperative Co.,Insurance,Financial Services,15.67,13.4,-14.486279514996806
+Arabian Cement Co.,Materials,Industrial,36.7,26.0,-29.15531335149864
+Arabian Contracting Services Co.,Media and Entertainment,Communication Services,94.55,145.2,53.569539925965096
+Arabian Drilling Co.,Energy,Energy,123.0,111.6,-9.268292682926834
+Arabian Internet and Communications Services Co.,Software & Services,Information Technology,196.2,270.0,37.61467889908258
+Arabian Mills for Food Products Co.,Food & Beverages,Consumer Staples,65.8,49.05,-25.455927051671733
+Arabian Pipes Co.,Materials,Industrial,2.53,9.14,261.2648221343874
+Arabian Shield Cooperative Insurance Co.,Insurance,Financial Services,13.04,19.2,47.239263803680984
+Ash-Sharqiyah Development Co.,Food & Beverages,Consumer Staples,19.97,19.62,-1.752628943415112
+Astra Industrial Group,Capital Goods,Financial Services,14.0,180.0,1185.7142857142858
+Ataa Educational Co.,Consumer Services,Consumer Discretionary,29.6,71.6,141.89189189189187
+BAAN Holding Group Co.,Consumer Services,Consumer Discretionary,3.47,2.47,-28.818443804034583
+Baazeem Trading Co.,Consumer Discretionary Distribution & Retail,Consumer Discretionary,4.27,6.45,51.05386416861829
+Bank Albilad,Banks,Financial Services,13.44,32.54,142.11309523809524
+Bank Aljazira,Banks,Financial Services,9.62,14.95,55.4054054054054
+Banque Saudi Fransi,Banks,Financial Services,18.09,15.84,-12.437810945273633
+Basic Chemical Industries Co.,Materials,Industrial,23.98,30.85,28.648874061718104
+Batic Investments and Logistics Co.,Capital Goods,Financial Services,1.83,3.66,100.0
+Bawan Co.,Capital Goods,Financial Services,16.38,56.0,241.88034188034192
+BinDawood Holding Co.,Consumer Staples Distribution & Retail,Consumer Discretionary,10.56,6.47,-38.731060606060616
+Bonyan REIT Fund,REITs,Real Estate,9.79,9.83,0.4085801838610922
+Bupa Arabia for Cooperative Insurance Co.,Insurance,Financial Services,81.15,207.0,155.08317929759704
+Buruj Cooperative Insurance Co.,Insurance,Financial Services,19.36,19.66,1.5495867768595077
+CHUBB Arabia Cooperative Insurance Co.,Insurance,Financial Services,15.59,49.5,217.51122514432328
+City Cement Co.,Materials,Industrial,21.0,18.2,-13.333333333333336
+Dallah Healthcare Co.,Health Care Equipment & Svc,Healthcare,39.36,150.0,281.0975609756098
+Derayah REIT Fund,REITs,Real Estate,10.5,5.91,-43.71428571428571
+Development Works Food Co.,Consumer Services,Consumer Discretionary,211.6,132.0,-37.61814744801512
+Dr. Soliman Abdel Kader Fakeeh Hospital Co.,Health Care Equipment & Svc,Healthcare,63.3,67.0,5.845181674565566
+Dr. Sulaiman Al Habib Medical Services Group,Health Care Equipment & Svc,Healthcare,55.0,280.4,409.81818181818176
 Dur Hospitality Co.,Consumer Services,Consumer Discretionary,23.32,27.0,15.780445969125212
-East Pipes Integrated Company for Industry,Materials,Industrial,56.65,124.0,118.88790820829655
-Eastern Province Cement Co.,Materials,Industrial,35.75,30.7,-14.125874125874127
-Electrical Industries Co.,Capital Goods,Financial Services,0.64,7.13,1014.0625
-Elm Co.,Software & Services,Information Technology,166.4,263.2,58.17307692307692
-Estate Mgmt & Dev't Alandalus Property Co.,Real,Real Estate,24.9,22.74,-8.674698795180724
-Estate Mgmt & Dev't Arabian Centres Co.,Real,Real Estate,21.66,19.78,-8.679593721144963
-Estate Mgmt & Dev't Arriyadh Development Co.,Real,Real Estate,34.35,32.35,-5.822416302765648
-Estate Mgmt & Dev't Banan Real Estate Co.,Real,Real Estate,6.97,4.54,-34.86370157819225
-Estate Mgmt & Dev't Dar Alarkan Real Estate Development Co.,Real,Real Estate,15.52,20.02,28.994845360824744
-Estate Mgmt & Dev't Emaar The Economic City,Real,Real Estate,15.52,20.02,28.994845360824744
-Estate Mgmt & Dev't Jabal Omar Development Co.,Real,Real Estate,20.98,21.54,2.6692087702573817
-Estate Mgmt & Dev't Knowledge Economic City,Real,Real Estate,14.78,13.52,-8.525033829499321
-Estate Mgmt & Dev't Makkah Construction and Development Co.,Real,Real Estate,98.26,96.8,-1.4858538571137878
-Estate Mgmt & Dev't Red Sea International Co.,Real,Real Estate,62.5,38.1,-39.04
-Estate Mgmt & Dev't Retal Urban Development Co.,Real,Real Estate,15.82,14.58,-7.8381795195954505
-Estate Mgmt & Dev't Saudi Real Estate Co.,Real,Real Estate,25.1,20.74,-17.370517928286862
-Estate Mgmt & Dev't Sumou Real Estate Co.,Real,Real Estate,48.7,41.0,-15.811088295687888
-Estate Mgmt & Dev't Taiba Investments Co.,Real,Real Estate,41.4,35.8,-13.526570048309184
-Estate Mgmt & Dev't Umm Al Qura for Development and Construction Co.,Real,Real Estate,19.5,22.94,17.64102564102565
-Etihad Atheeb Telecommunication Co.,Telecommunication Services,Communication Services,9.37,96.9,934.1515474919959
-Etihad Etisalat Co.,Telecommunication Services,Communication Services,30.15,59.6,97.6782752902156
-Fawaz Abdulaziz Alhokair Co.,Consumer Discretionary Distribution & Retail,Consumer Discretionary,46.47,16.22,-65.09576070583172
-Filing and Packing Materials Manufacturing Co.,Materials,Industrial,29.8,34.5,15.77181208053691
-First Milling Co.,Food & Beverages,Consumer Staples,70.5,53.8,-23.687943262411352
-Fitaihi Holding Group,Consumer Durables & Apparel,Consumer Discretionary,1.98,3.65,84.34343434343434
-Fourth Milling Co.,Food & Beverages,Consumer Staples,5.3,3.78,-28.67924528301887
-Gulf General Cooperative Insurance Co.,Insurance,Financial Services,12.0,6.45,-46.25
-Gulf Insurance Group,Insurance,Financial Services,25.4,25.7,1.1811023622047274
-Gulf Union Alahlia Cooperative Insurance Co.,Insurance,Financial Services,11.21,14.9,32.91703835860838
-Hail Cement Co.,Materials,Industrial,12.32,34.5,180.03246753246754
-Halwani Bros. Co.,Food & Beverages,Consumer Staples,31.99,49.3,54.1106595811191
-Herfy Food Services Co.,Consumer Services,Consumer Discretionary,53.5,21.7,-59.439252336448604
-Jadwa REIT Al Haramain Fund,REITs,Real Estate,8.13,5.62,-30.873308733087335
-Jadwa REIT Saudi Fund,REITs,Real Estate,15.14,10.2,-32.62879788639367
-Jahez International Company for Information System Technology,Consumer Services,Consumer Discretionary,34.2,21.7,-36.54970760233919
-Jamjoom Pharmaceuticals Factory Co.,Pharma Biotech & Life Science,Healthcare,78.0,174.8,124.10256410256413
-Jarir Marketing Co.,Consumer Discretionary Distribution & Retail,Consumer Discretionary,16.48,12.86,-21.96601941747573
-Jazan Development and Investment Co.,Food & Beverages,Consumer Staples,11.88,45.15,280.050505050505
-Kingdom Holding Co.,Financial Services,Financial Services,7.53,8.8,16.865869853917665
-LIVA Insurance Co.,Insurance,Financial Services,18.86,12.84,-31.919406150583246
-Lazurde Company for Jewelry,Consumer Durables & Apparel,Consumer Discretionary,14.39,12.64,-12.161223071577485
-Leejam Sports Co.,Consumer Services,Consumer Discretionary,80.6,127.2,57.81637717121589
-Lumi Rental Co.,Transportation,Industrial,85.8,52.5,-38.811188811188806
-MBC Group Co.,Media and Entertainment,Communication Services,32.5,43.55,33.99999999999999
-MEFIC REIT Fund,REITs,Real Estate,7.86,3.85,-51.01781170483461
-Malath Cooperative Insurance Co.,Insurance,Financial Services,10.06,13.32,32.40556660039761
-MetLife AIG ANB Cooperative Insurance Co.,Insurance,Financial Services,17.12,13.32,-22.196261682242994
-Methanol Chemicals Co.,Materials,Industrial,15.03,11.22,-25.349301397205583
-Miahona Co.,Utilities,Utilities,14.94,23.66,58.366800535475235
-Middle East Healthcare Co.,Health Care Equipment & Svc,Healthcare,29.7,60.4,103.36700336700338
-Middle East Paper Co.,Materials,Industrial,10.68,28.25,164.5131086142322
-Middle East Pharmaceutical Industries Co.,Pharma Biotech & Life Science,Healthcare,106.6,174.8,63.977485928705455
-Middle East Specialized Cables Co.,Capital Goods,Financial Services,9.53,7.13,-25.183630640083944
-Mobile Telecommunication Company Saudi Arabia,Telecommunication Services,Communication Services,11.98,10.9,-9.015025041736227
-Modern Mills for Food Products Co.,Food & Beverages,Consumer Staples,62.4,10.36,-83.3974358974359
-Mohammad Al Mojil Group,Capital Goods,Financial Services,42.65,31.45,-26.260257913247358
-Morabaha Marina Financing Co.,Financial Services,Financial Services,14.94,8.8,-41.09772423025434
-Mouwasat Medical Services Co.,Health Care Equipment & Svc,Healthcare,44.1,72.6,64.62585034013604
-Mulkia Gulf Real Estate REIT,REITs,Real Estate,8.35,4.84,-42.035928143712574
-Musharaka REIT Fund,REITs,Real Estate,4.67,4.28,-8.351177730192713
-Mutakamela Insurance Co.,Insurance,Financial Services,15.87,15.02,-5.356017643352235
-Nahdi Medical Co.,Consumer Staples Distribution & Retail,Consumer Discretionary,150.0,122.0,-18.666666666666668
-Najran Cement Co.,Materials,Industrial,12.1,28.25,133.47107438016528
-Nama Chemicals Co.,Materials,Industrial,23.6,27.75,17.584745762711858
-Naqi Water Co.,Food & Beverages,Consumer Staples,86.9,53.5,-38.43498273878021
-Naseej International Trading Co.,Consumer Durables & Apparel,Consumer Discretionary,36.1,81.5,125.76177285318559
-National Agricultural Development Co.,Food & Beverages,Consumer Staples,10.95,21.3,94.52054794520551
-National Company for Learning and Education,Consumer Services,Consumer Discretionary,29.0,160.8,454.4827586206897
-National Gas and Industrialization Co.,Utilities,Utilities,31.0,77.8,150.96774193548384
-National Gypsum Co.,Materials,Industrial,13.76,19.78,43.750000000000014
-National Industrialization Co.,Materials,Industrial,13.74,19.78,43.959243085880644
-National Medical Care Co.,Health Care Equipment & Svc,Healthcare,48.6,165.0,239.50617283950618
-National Metal Manufacturing and Casting Co.,Materials,Industrial,14.36,9.14,-36.35097493036211
-National Petrochemical Co.,Materials,Industrial,23.52,13.5,-42.60204081632653
-National Shipping Company of Saudi Arabia,Energy,Energy,20.91,30.5,45.86322333811573
-Nayifat Finance Co.,Financial Services,Financial Services,29.38,10.8,-63.24029952348537
-Nice One Beauty Digital Marketing Co.,Consumer Discretionary Distribution & Retail,Consumer Discretionary,45.5,32.6,-28.35164835164835
-Northern Region Cement Co.,Materials,Industrial,11.96,9.37,-21.655518394648844
-Perfect Presentation for Commercial Services Co.,Software & Services,Information Technology,9.45,11.74,24.232804232804245
-Qassim Cement Co.,Materials,Industrial,66.7,7.99,-88.02098950524737
-Rabigh Refining and Petrochemical Co.,Energy,Energy,17.8,30.5,71.34831460674157
-Raoom Trading Co.,Capital Goods,Financial Services,91.5,67.2,-26.557377049180324
-Rasan Information Technology Co.,Insurance,Financial Services,47.05,82.6,75.55791710945802
-Raydan Food Co.,Consumer Services,Consumer Discretionary,28.33,14.68,-48.18213907518532
-Riyad Bank,Banks,Financial Services,23.9,29.05,21.548117154811724
-Riyad REIT Fund,REITs,Real Estate,6.44,5.71,-11.33540372670808
-Riyadh Cables Group Co.,Capital Goods,Financial Services,37.8,139.0,267.72486772486775
-Riyadh Cement Co.,Materials,Industrial,34.85,32.05,-8.034433285509337
-SABB Takaful Co.,Insurance,Financial Services,16.66,82.6,395.79831932773106
-SABIC Agri-Nutrients Co.,Materials,Industrial,77.8,95.9,23.26478149100258
-SAL Saudi Logistics Services Co.,Transportation,Industrial,132.6,62.0,-53.242835595776775
-SEDCO Capital REIT Fund,REITs,Real Estate,8.33,6.85,-17.7671068427371
-SHL Finance Co.,Financial Services,Financial Services,26.0,12.64,-51.38461538461539
-SICO Saudi REIT Fund,REITs,Real Estate,8.33,6.85,-17.7671068427371
-Sahara International Petrochemical Co.,Materials,Industrial,17.94,18.9,5.351170568561858
-Salama Cooperative Insurance Co.,Insurance,Financial Services,16.15,12.82,-20.61919504643962
+East Pipes Integrated Company for Industry,Materials,Industrial,56.65,140.4,147.83759929391
+Eastern Province Cement Co.,Materials,Industrial,35.75,34.4,-3.7762237762237802
+Electrical Industries Co.,Capital Goods,Financial Services,0.64,7.24,1031.25
+Elm Co.,Software & Services,Information Technology,166.4,995.0,497.9567307692308
+Etihad Atheeb Telecommunication Co.,Telecommunication Services,Communication Services,9.37,109.0,1063.2870864461045
+Etihad Etisalat Co.,Telecommunication Services,Communication Services,30.15,53.4,77.11442786069652
+Fawaz Abdulaziz Alhokair Co.,Consumer Discretionary Distribution & Retail,Consumer Discretionary,46.47,13.22,-71.55153862707124
+Filing and Packing Materials Manufacturing Co.,Materials,Industrial,29.8,44.5,49.32885906040268
+First Milling Co.,Food & Beverages,Consumer Staples,70.5,60.5,-14.184397163120568
+Fitaihi Holding Group,Consumer Durables & Apparel,Consumer Discretionary,1.98,4.21,112.62626262626263
+Fourth Milling Co.,Food & Beverages,Consumer Staples,5.3,4.04,-23.773584905660375
+Gulf General Cooperative Insurance Co.,Insurance,Financial Services,12.0,10.38,-13.499999999999993
+Gulf Insurance Group,Insurance,Financial Services,25.4,31.7,24.803149606299215
+Gulf Union Alahlia Cooperative Insurance Co.,Insurance,Financial Services,11.21,15.58,38.98305084745762
+Hail Cement Co.,Materials,Industrial,12.32,11.72,-4.870129870129867
+Halwani Bros. Co.,Food & Beverages,Consumer Staples,31.99,53.1,65.98937167864959
+Herfy Food Services Co.,Consumer Services,Consumer Discretionary,53.5,25.1,-53.0841121495327
+Jadwa REIT Al Haramain Fund,REITs,Real Estate,8.13,5.95,-26.81426814268143
+Jadwa REIT Saudi Fund,REITs,Real Estate,15.14,10.08,-33.4214002642008
+Jahez International Company for Information System Technology,Consumer Services,Consumer Discretionary,34.2,30.3,-11.403508771929829
+Jamjoom Pharmaceuticals Factory Co.,Pharma Biotech & Life Science,Healthcare,78.0,152.2,95.12820512820511
+Jarir Marketing Co.,Consumer Discretionary Distribution & Retail,Consumer Discretionary,16.48,12.66,-23.179611650485437
+Jazan Development and Investment Co.,Food & Beverages,Consumer Staples,11.88,13.3,11.952861952861952
+Kingdom Holding Co.,Financial Services,Financial Services,7.53,8.84,17.397078353253644
+LIVA Insurance Co.,Insurance,Financial Services,18.86,17.04,-9.650053022269354
+Lazurde Company for Jewelry,Consumer Durables & Apparel,Consumer Discretionary,14.39,13.76,-4.378040305767899
+Leejam Sports Co.,Consumer Services,Consumer Discretionary,80.6,185.4,130.02481389578168
+Lumi Rental Co.,Transportation,Industrial,85.8,71.2,-17.01631701631701
+MBC Group Co.,Media and Entertainment,Communication Services,32.5,52.3,60.92307692307691
+MEFIC REIT Fund,REITs,Real Estate,7.86,4.06,-48.34605597964377
+Malath Cooperative Insurance Co.,Insurance,Financial Services,10.06,16.42,63.220675944334005
+Methanol Chemicals Co.,Materials,Industrial,15.03,18.5,23.08715901530273
+Miahona Co.,Utilities,Utilities,14.94,27.75,85.74297188755021
+Middle East Healthcare Co.,Health Care Equipment & Svc,Healthcare,29.7,68.7,131.31313131313132
+Middle East Paper Co.,Materials,Industrial,10.68,36.7,243.63295880149818
+Middle East Pharmaceutical Industries Co.,Pharma Biotech & Life Science,Healthcare,106.6,121.8,14.258911819887432
+Middle East Specialized Cables Co.,Capital Goods,Financial Services,9.53,43.4,355.40398740818466
+Mobile Telecommunication Company Saudi Arabia,Telecommunication Services,Communication Services,11.98,10.26,-14.357262103505846
+Modern Mills for Food Products Co.,Food & Beverages,Consumer Staples,62.4,41.15,-34.05448717948718
+Morabaha Marina Financing Co.,Financial Services,Financial Services,14.94,11.46,-23.293172690763043
+Mouwasat Medical Services Co.,Health Care Equipment & Svc,Healthcare,44.1,85.1,92.97052154195009
+Mulkia Gulf Real Estate REIT,REITs,Real Estate,8.35,5.44,-34.850299401197596
+Mutakamela Insurance Co.,Insurance,Financial Services,15.87,15.32,-3.4656584751102644
+Nahdi Medical Co.,Consumer Staples Distribution & Retail,Consumer Discretionary,150.0,117.6,-21.6
+Najran Cement Co.,Materials,Industrial,12.1,9.07,-25.04132231404958
+Nama Chemicals Co.,Materials,Industrial,23.6,27.9,18.220338983050834
+Naqi Water Co.,Food & Beverages,Consumer Staples,86.9,63.7,-26.697353279631763
+Naseej International Trading Co.,Consumer Durables & Apparel,Consumer Discretionary,36.1,97.3,169.52908587257616
+National Agricultural Development Co.,Food & Beverages,Consumer Staples,10.95,24.68,125.38812785388129
+National Company for Learning and Education,Consumer Services,Consumer Discretionary,29.0,205.0,606.8965517241379
+National Gas and Industrialization Co.,Utilities,Utilities,31.0,102.6,230.96774193548387
+National Gypsum Co.,Materials,Industrial,13.76,21.74,57.99418604651162
+National Industrialization Co.,Materials,Industrial,13.74,10.16,-26.055312954876275
+National Medical Care Co.,Health Care Equipment & Svc,Healthcare,48.6,167.0,243.62139917695472
+National Metal Manufacturing and Casting Co.,Materials,Industrial,14.36,17.72,23.398328690807794
+National Petrochemical Co.,Materials,Industrial,23.52,41.0,74.31972789115646
+National Shipping Company of Saudi Arabia,Energy,Energy,20.91,26.15,25.05978000956479
+Nayifat Finance Co.,Financial Services,Financial Services,29.38,15.46,-47.37916950306331
+Northern Region Cement Co.,Materials,Industrial,11.96,9.25,-22.658862876254187
+Perfect Presentation for Commercial Services Co.,Software & Services,Information Technology,9.45,14.04,48.57142857142857
+Qassim Cement Co.,Materials,Industrial,66.7,52.6,-21.13943028485757
+Rabigh Refining and Petrochemical Co.,Energy,Energy,17.8,8.26,-53.59550561797754
+Rasan Information Technology Co.,Insurance,Financial Services,47.05,84.51,79.61742826780024
+Raydan Food Co.,Consumer Services,Consumer Discretionary,28.33,21.8,-23.049770561242493
+Riyad Bank,Banks,Financial Services,23.9,28.6,19.665271966527207
+Riyadh Cables Group Co.,Capital Goods,Financial Services,37.8,137.8,264.5502645502646
+Riyadh Cement Co.,Materials,Industrial,34.85,32.25,-7.460545193687235
+SABB Takaful Co.,Insurance,Financial Services,16.66,19.02,14.1656662665066
+SABIC Agri-Nutrients Co.,Materials,Industrial,77.8,111.0,42.673521850899746
+SAL Saudi Logistics Services Co.,Transportation,Industrial,132.6,252.6,90.49773755656109
+SHL Finance Co.,Financial Services,Financial Services,26.0,18.18,-30.07692307692308
+Sahara International Petrochemical Co.,Materials,Industrial,17.94,24.88,38.68450390189519
+Salama Cooperative Insurance Co.,Insurance,Financial Services,16.15,18.24,12.941176470588237
 Samba Financial Group,Banks,Financial Services,32.2,38.5,19.565217391304337
-Sanad Cooperative Insurance Co.,Insurance,Financial Services,21.06,12.82,-39.12630579297245
-Saudi Advanced Industries Co.,Financial Services,Financial Services,11.43,25.1,119.59755030621173
-Saudi Arabia Refineries Co.,Energy,Energy,45.0,63.5,41.11111111111111
-Saudi Arabian Amiantit Co.,Capital Goods,Financial Services,21.0,21.66,3.1428571428571437
-Saudi Arabian Cooperative Insurance Co.,Insurance,Financial Services,16.62,15.06,-9.386281588447657
-Saudi Arabian Mining Co.,Materials,Industrial,14.69,51.0,247.17494894486046
-Saudi Arabian Oil Co.,Energy,Energy,29.02,63.5,118.8146106133701
-Saudi Aramco Base Oil Co.,Materials,Industrial,95.0,51.0,-46.31578947368421
-Saudi Automotive Services Co.,Consumer Discretionary Distribution & Retail,Consumer Discretionary,25.16,59.6,136.8839427662957
-Saudi Awwal Bank,Banks,Financial Services,34.25,33.75,-1.4598540145985401
-Saudi Basic Industries Corp.,Materials,Industrial,93.1,99.6,6.981740064446831
-Saudi Cable Co.,Capital Goods,Financial Services,110.31,127.8,15.855316834375847
-Saudi Cement Co.,Materials,Industrial,69.9,40.45,-42.13161659513591
-Saudi Ceramic Co.,Capital Goods,Financial Services,21.91,29.65,35.32633500684618
-Saudi Chemical Co.,Health Care Equipment & Svc,Healthcare,2.44,7.8,219.67213114754097
-Saudi Company for Hardware,Consumer Discretionary Distribution & Retail,Consumer Discretionary,55.0,28.85,-47.54545454545454
-Saudi Electricity Co.,Utilities,Utilities,20.22,14.16,-29.970326409495545
-Saudi Enaya Cooperative Insurance Co.,Insurance,Financial Services,24.46,9.41,-61.5290269828291
-Saudi Fisheries Co.,Food & Beverages,Consumer Staples,138.17,101.0,-26.901642903669387
-Saudi Ground Services Co.,Transportation,Industrial,35.9,46.7,30.08356545961004
-Saudi Industrial Development Co.,Consumer Durables & Apparel,Consumer Discretionary,24.47,81.5,233.0608908868002
-Saudi Industrial Export Co.,Capital Goods,Financial Services,2.62,2.15,-17.93893129770993
-Saudi Industrial Investment Group,Materials,Industrial,24.12,40.45,67.70315091210614
-Saudi Integrated Telecom Company,Telecommunication Services,Communication Services,10.24,10.9,6.445312500000002
-Saudi Investment Bank,Banks,Financial Services,10.81,14.8,36.91026827012026
-Saudi Kayan Petrochemical Co.,Materials,Industrial,11.14,5.03,-54.847396768402156
-Saudi Marketing Co.,Consumer Staples Distribution & Retail,Consumer Discretionary,15.9,18.54,16.60377358490565
-Saudi Paper Manufacturing Co.,Materials,Industrial,7.96,65.0,716.5829145728643
-Saudi Pharmaceutical Industries and Medical Appliances Corp.,Pharma Biotech & Life Science,Healthcare,27.5,24.96,-9.236363636363633
-Saudi Public Transport Co.,Transportation,Industrial,18.02,14.26,-20.865704772475027
-Saudi Reinsurance Co.,Insurance,Financial Services,8.51,50.5,493.4195064629848
-Saudi Research and Media Group,Media and Entertainment,Communication Services,78.0,43.55,-44.16666666666667
-Saudi Steel Pipe Co.,Materials,Industrial,21.0,59.9,185.2380952380952
-Saudi Tadawul Group Holding Co.,Financial Services,Financial Services,118.0,174.8,48.13559322033899
-Saudi Telecom Co.,Telecommunication Services,Communication Services,40.32,41.9,3.9186507936507895
-Saudi Vitrified Clay Pipes Co.,Materials,Industrial,53.0,30.8,-41.886792452830186
-Saudia Dairy and Foodstuff Co.,Food & Beverages,Consumer Staples,143.0,283.8,98.46153846153847
-Savola Group,Food & Beverages,Consumer Staples,21.96,26.55,20.901639344262293
-Scientific and Medical Equipment House Co.,Health Care Equipment & Svc,Healthcare,45.08,37.95,-15.816326530612235
-Seera Group Holding,Consumer Services,Consumer Discretionary,22.1,14.68,-33.574660633484164
-Shatirah House Restaurant Co.,Consumer Services,Consumer Discretionary,22.52,16.28,-27.708703374777972
-Sinad Holding Co.,Food & Beverages,Consumer Staples,9.22,10.16,10.195227765726674
+Saudi Advanced Industries Co.,Financial Services,Financial Services,11.43,35.2,207.96150481189852
+Saudi Arabia Refineries Co.,Energy,Energy,45.0,72.1,60.22222222222221
+Saudi Arabian Amiantit Co.,Capital Goods,Financial Services,21.0,28.35,35.00000000000001
+Saudi Arabian Cooperative Insurance Co.,Insurance,Financial Services,16.62,15.64,-5.896510228640195
+Saudi Arabian Mining Co.,Materials,Industrial,14.69,50.3,242.40980258679375
+Saudi Arabian Oil Co.,Energy,Energy,29.02,28.05,-3.3425223983459644
+Saudi Aramco Base Oil Co.,Materials,Industrial,95.0,111.8,17.684210526315784
+Saudi Automotive Services Co.,Consumer Discretionary Distribution & Retail,Consumer Discretionary,25.16,63.5,152.38473767885534
+Saudi Awwal Bank,Banks,Financial Services,34.25,33.65,-1.7518248175182525
+Saudi Basic Industries Corp.,Materials,Industrial,93.1,67.0,-28.034371643394195
+Saudi Cable Co.,Capital Goods,Financial Services,110.31,101.0,-8.439851328075425
+Saudi Cement Co.,Materials,Industrial,69.9,42.65,-38.98426323319028
+Saudi Ceramic Co.,Capital Goods,Financial Services,21.91,34.1,55.63669557279781
+Saudi Chemical Co.,Health Care Equipment & Svc,Healthcare,2.44,9.27,279.91803278688525
+Saudi Company for Hardware,Consumer Discretionary Distribution & Retail,Consumer Discretionary,55.0,31.65,-42.45454545454545
+Saudi Electricity Co.,Utilities,Utilities,20.22,16.9,-16.419386745796245
+Saudi Enaya Cooperative Insurance Co.,Insurance,Financial Services,24.46,12.66,-48.2420278004906
+Saudi Fisheries Co.,Food & Beverages,Consumer Staples,138.17,131.06,-5.145834841137718
+Saudi Ground Services Co.,Transportation,Industrial,35.9,51.1,42.33983286908079
+Saudi Industrial Development Co.,Consumer Durables & Apparel,Consumer Discretionary,24.47,29.6,20.96444626072743
+Saudi Industrial Export Co.,Capital Goods,Financial Services,2.62,2.45,-6.488549618320608
+Saudi Industrial Investment Group,Materials,Industrial,24.12,17.26,-28.441127694859038
+Saudi Investment Bank,Banks,Financial Services,10.81,14.5,34.13506012950971
+Saudi Kayan Petrochemical Co.,Materials,Industrial,11.14,7.02,-36.983842010772
+Saudi Marketing Co.,Consumer Staples Distribution & Retail,Consumer Discretionary,15.9,22.62,42.26415094339623
+Saudi Paper Manufacturing Co.,Materials,Industrial,7.96,64.9,715.3266331658292
+Saudi Pharmaceutical Industries and Medical Appliances Corp.,Pharma Biotech & Life Science,Healthcare,27.5,31.95,16.18181818181818
+Saudi Public Transport Co.,Transportation,Industrial,18.02,20.44,13.429522752497236
+Saudi Reinsurance Co.,Insurance,Financial Services,8.51,53.9,533.3725029377204
+Saudi Research and Media Group,Media and Entertainment,Communication Services,78.0,275.0,252.56410256410254
+Saudi Steel Pipe Co.,Materials,Industrial,21.0,65.1,209.99999999999997
+Saudi Tadawul Group Holding Co.,Financial Services,Financial Services,118.0,216.8,83.72881355932205
+Saudi Telecom Co.,Telecommunication Services,Communication Services,40.32,40.0,-0.7936507936507943
+Saudi Vitrified Clay Pipes Co.,Materials,Industrial,53.0,38.15,-28.01886792452831
+Saudia Dairy and Foodstuff Co.,Food & Beverages,Consumer Staples,143.0,337.8,136.22377622377624
+Savola Group,Food & Beverages,Consumer Staples,21.96,36.7,67.12204007285976
+Scientific and Medical Equipment House Co.,Health Care Equipment & Svc,Healthcare,45.08,50.5,12.023070097604263
+Seera Group Holding,Consumer Services,Consumer Discretionary,22.1,22.46,1.6289592760180969
+Shatirah House Restaurant Co.,Consumer Services,Consumer Discretionary,22.52,20.96,-6.927175843694489
+Sinad Holding Co.,Food & Beverages,Consumer Staples,9.22,13.7,48.59002169197395
 Solidarity Saudi Takaful Co.,Insurance,Financial Services,12.38,14.2,14.701130856219697
-Southern Province Cement Co.,Materials,Industrial,64.5,29.7,-53.95348837209302
-Sustained Infrastructure Holding Co.,Transportation,Industrial,19.6,14.26,-27.244897959183678
-Svc Al Mawarid Manpower Co.,Commercial & Professional,Industrial,83.2,136.8,64.42307692307693
-Svc CATRION Catering Holding Co.,Commercial & Professional,Industrial,102.0,118.4,16.078431372549026
-Svc Maharah Human Resources Co.,Commercial & Professional,Industrial,6.81,5.13,-24.66960352422907
-Svc Sadr Logistics Co.,Commercial & Professional,Industrial,4.41,2.81,-36.281179138321995
-Svc Saudi Manpower Solutions Co.,Commercial & Professional,Industrial,9.05,2.81,-68.95027624309392
-Svc Saudi Printing and Packaging Co.,Commercial & Professional,Industrial,13.02,10.84,-16.743471582181257
-Svc Tamkeen Human Resource Co.,Commercial & Professional,Industrial,65.0,52.5,-19.230769230769234
-Tabuk Agricultural Development Co.,Food & Beverages,Consumer Staples,12.83,10.16,-20.810600155884647
-Tabuk Cement Co.,Materials,Industrial,16.12,10.98,-31.88585607940447
-Takween Advanced Industries Co.,Materials,Industrial,13.26,7.92,-40.27149321266968
-Taleem REIT Fund,REITs,Real Estate,12.66,9.96,-21.327014218009474
-Tanmiah Food Co.,Food & Beverages,Consumer Staples,87.1,97.7,12.169919632606211
-The Company for Cooperative Insurance,Insurance,Financial Services,63.58,138.6,117.99307958477507
-The Mediterranean and Gulf Insurance and Reinsurance Co.,Insurance,Financial Services,15.63,19.68,25.911708253358917
-The National Company for Glass Industries,Materials,Industrial,17.68,45.05,154.8076923076923
-The Power and Water Utility Company for Jubail and Yanbu,Utilities,Utilities,47.6,40.45,-15.021008403361341
-The Saudi National Bank,Banks,Financial Services,36.3,34.7,-4.4077134986225746
-Theeb Rent a Car Co.,Transportation,Industrial,52.0,29.0,-44.230769230769226
-Thimar Development Holding Co.,Consumer Staples Distribution & Retail,Consumer Discretionary,48.96,18.54,-62.13235294117647
-Thob Al Aseel Co.,Consumer Durables & Apparel,Consumer Discretionary,3.26,4.02,23.31288343558282
-Tihama Advertising and Public Relations Co.,Media and Entertainment,Communication Services,20.56,15.08,-26.65369649805447
-Tourism Enterprise Co.,Consumer Services,Consumer Discretionary,0.35,0.78,122.85714285714289
-Umm Al-Qura Cement Co.,Materials,Industrial,22.0,16.7,-24.090909090909093
-United Carton Industries Co.,Materials,Industrial,17.94,16.7,-6.911928651059096
-United Cooperative Assurance Co.,Insurance,Financial Services,9.28,7.4,-20.258620689655164
-United Electronics Co.,Consumer Discretionary Distribution & Retail,Consumer Discretionary,46.67,86.9,86.20098564388259
-United International Holding Co.,Financial Services,Financial Services,171.6,174.8,1.864801864801875
-United International Transportation Co.,Transportation,Industrial,36.95,70.9,91.8809201623816
-United Wire Factories Co.,Materials,Industrial,24.45,22.7,-7.157464212678937
-Wafrah for Industry and Development Co.,Food & Beverages,Consumer Staples,14.75,29.1,97.28813559322035
-Walaa Cooperative Insurance Co.,Insurance,Financial Services,14.05,7.4,-47.330960854092524
-Wataniya Insurance Co.,Insurance,Financial Services,12.11,17.76,46.6556564822461
-Weqaya Takaful Insurance and Reinsurance Co.,Insurance,Financial Services,26.8,17.34,-35.298507462686565
-Yamama Cement Co.,Materials,Industrial,26.6,36.0,35.33834586466165
-Yanbu Cement Co.,Materials,Industrial,39.65,36.0,-9.205548549810842
-Yanbu National Petrochemical Co.,Materials,Industrial,56.0,29.8,-46.785714285714285
-Zahrat Al Waha for Trading Co.,Materials,Industrial,31.83,29.8,-6.377631165567068
-Zamil Industrial Investment Co.,Materials,Industrial,18.44,41.1,122.88503253796095
+Southern Province Cement Co.,Materials,Industrial,64.5,34.5,-46.51162790697674
+Sustained Infrastructure Holding Co.,Transportation,Industrial,19.6,32.0,63.26530612244897
+Svc Al Mawarid Manpower Co.,Commercial & Professional,Industrial,83.2,105.4,26.682692307692314
+Svc CATRION Catering Holding Co.,Commercial & Professional,Industrial,102.0,122.0,19.607843137254903
+Svc Maharah Human Resources Co.,Commercial & Professional,Industrial,6.81,6.16,-9.544787077826717
+Svc Sadr Logistics Co.,Commercial & Professional,Industrial,4.41,3.23,-26.75736961451247
+Svc Saudi Manpower Solutions Co.,Commercial & Professional,Industrial,9.05,7.66,-15.359116022099453
+Svc Saudi Printing and Packaging Co.,Commercial & Professional,Industrial,13.02,12.24,-5.990783410138245
+Svc Tamkeen Human Resource Co.,Commercial & Professional,Industrial,65.0,64.1,-1.3846153846153932
+Tabuk Agricultural Development Co.,Food & Beverages,Consumer Staples,12.83,15.1,17.692907248636004
+Tabuk Cement Co.,Materials,Industrial,16.12,12.86,-20.223325062034746
+Takween Advanced Industries Co.,Materials,Industrial,13.26,10.48,-20.965309200603315
+Taleem REIT Fund,REITs,Real Estate,12.66,10.24,-19.115323854660346
+Tanmiah Food Co.,Food & Beverages,Consumer Staples,87.1,121.0,38.9207807118255
+The Company for Cooperative Insurance,Insurance,Financial Services,63.58,147.6,132.14847436300724
+The Mediterranean and Gulf Insurance and Reinsurance Co.,Insurance,Financial Services,15.63,26.05,66.66666666666666
+The National Company for Glass Industries,Materials,Industrial,17.68,54.3,207.12669683257917
+The Power and Water Utility Company for Jubail and Yanbu,Utilities,Utilities,47.6,54.8,15.126050420168058
+The Saudi National Bank,Banks,Financial Services,36.3,33.4,-7.988980716253439
+Theeb Rent a Car Co.,Transportation,Industrial,52.0,76.6,47.30769230769229
+Thimar Development Holding Co.,Consumer Staples Distribution & Retail,Consumer Discretionary,48.96,43.85,-10.437091503267974
+Thob Al Aseel Co.,Consumer Durables & Apparel,Consumer Discretionary,3.26,4.25,30.36809815950921
+Tihama Advertising and Public Relations Co.,Media and Entertainment,Communication Services,20.56,15.34,-25.389105058365757
+Tourism Enterprise Co.,Consumer Services,Consumer Discretionary,0.35,0.96,174.28571428571428
+Umm Al-Qura Cement Co.,Materials,Industrial,22.0,18.62,-15.36363636363636
+United Cooperative Assurance Co.,Insurance,Financial Services,9.28,8.92,-3.87931034482758
+United Electronics Co.,Consumer Discretionary Distribution & Retail,Consumer Discretionary,46.67,90.2,93.27190914934647
+United International Holding Co.,Financial Services,Financial Services,171.6,180.0,4.8951048951048985
+United International Transportation Co.,Transportation,Industrial,36.95,81.9,121.65087956698241
+United Wire Factories Co.,Materials,Industrial,24.45,28.95,18.404907975460123
+Wafrah for Industry and Development Co.,Food & Beverages,Consumer Staples,14.75,38.45,160.67796610169495
+Walaa Cooperative Insurance Co.,Insurance,Financial Services,14.05,19.36,37.79359430604981
+Wataniya Insurance Co.,Insurance,Financial Services,12.11,24.52,102.47729149463254
+Yamama Cement Co.,Materials,Industrial,26.6,35.05,31.766917293233064
+Yanbu Cement Co.,Materials,Industrial,39.65,24.3,-38.71374527112232
+Yanbu National Petrochemical Co.,Materials,Industrial,56.0,37.8,-32.50000000000001
+Zahrat Al Waha for Trading Co.,Materials,Industrial,31.83,32.4,1.7907634307257316
+Zamil Industrial Investment Co.,Materials,Industrial,18.44,32.35,75.43383947939262
